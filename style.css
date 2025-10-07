@@ -1,0 +1,169 @@
+
+img {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+body {
+	background-color: #fafafa;
+}
+
+#first {
+	background-image: url("/Users/missminniemouse/Desktop/csen 60 assignment 1/polkadot.jpg");
+	height: 150px;
+	position: relative;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	display: flex;
+	float: right;
+	margin-right: 150px;
+	margin-top: 10px;
+}
+
+.navbar a {
+	color: #b56487;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 0px;
+	margin: 20px;
+	transition: all .50s ease;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	color: hotpink;
+	text-decoration: underline;
+}
+
+.second {
+	background-color: #fff5fa;
+	width: 100%;
+	height: 35px;
+}
+
+.intro {
+	width:40%;
+	float: right;
+	padding-top: 180px;
+	padding-right: 265px;
+	font-size: 18px;
+	color: black;
+}
+
+#intro_text {
+	margin-left: 0px;
+	text-align: center;
+}
+
+img {
+	width: 22%;
+	padding-top: 50px;
+	padding-left: 220px;
+	padding-right: 10px;
+	position: relative;
+}
+
+.image_text {
+	position: absolute;
+	left: 250px;
+	top: 630px;
+	color: #f5bad6;
+	background-color: #fff5fa;
+
+}
+
+.contact {
+	height:250px;
+	margin-top: 50px;
+	background-color: #f5f5f5;
+	margin-bottom: 0px;
+}
+
+.footer {
+	background-color: #e6e6e6;
+	height: 28px;
+	margin-top: 90px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.contact button {
+	background-color: #f5bad6;
+	padding: 15px 30px;
+	border-radius: 12px;
+	position: absolute;
+	left: 43.5%;
+	top: 50%;
+	margin-top: 390px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-size: 20px;
+	color: #fff5fa;
+	border: hotpink;
+}
+
+.contact button:hover {
+	background-color: hotpink;
+}
+
+a {
+	text-decoration: none;
+	color: #fff5fa;
+}
+
+.left {
+	background-color: white;
+	width: 60%;
+	float: left;
+	height: 500px;
+}
+
+.resume_intro {
+	margin-top: 150px;
+	background-color: #fcebf5;
+	height: 140px;
+}
+
+.resume_intro p {
+	width: 70%;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.resume_example {
+	height: 1050px;
+	background-color: #f7dceb;
+}
+
+.resume_example p {
+	padding-top: 50px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+.resume_example img {
+	width: 1000px;
+	height: 800px;
+}
+
+h1, p {
+	text-align: left;
+	margin-left: 250px;
+}
+
+h1 {
+	margin-top: 200px;
+}
+
+#email {
+	text-align: center;
+	margin-left: 0px;
+}
