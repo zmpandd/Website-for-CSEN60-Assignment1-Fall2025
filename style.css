@@ -10,7 +10,7 @@ body {
 }
 
 #first {
-	background-image: url("/Users/missminniemouse/Desktop/csen 60 assignment 1/polkadot.jpg");
+	background-image: url(polkadot.jpg);
 	height: 150px;
 	position: relative;
 }
